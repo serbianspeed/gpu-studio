@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=GPU Studio
+Comment=Kontrolna tabla grafičke karte (samo čitanje)
+Exec="/home/djole/Desktop/gpu-studio/gpu-studio-app.sh"
+Icon=/home/djole/Desktop/gpu-studio/gpu-studio.svg
+Terminal=false
+StartupWMClass=GpuStudio
+Categories=System;Monitor;
